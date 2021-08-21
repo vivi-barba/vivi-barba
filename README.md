@@ -13,9 +13,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt"java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
-  <img align="right" alt="" height="170" src="https://user-images.githubusercontent.com/68571128/130331497-7de23d9b-3264-4f00-8fba-ed939021eb40.png">
+ 
 </div>
-
+<hr>
 <br>
 <div> 
  
