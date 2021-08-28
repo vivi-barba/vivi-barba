@@ -4,8 +4,11 @@
 📓 Estudando Javascript e Java <br>
 📖 Autodidata 
 
-
-
+<div>
+  <a href="https://github.com/vivi-barba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-barba&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +18,7 @@
   <img align="center" alt"java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
  
 </div>
-<hr>
+ <hr>
 <br>
 <div> 
  
