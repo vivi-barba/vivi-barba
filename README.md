@@ -1,8 +1,8 @@
 <h1> Olá, eu sou a Victória Barbosa 👩🏻 </h1>
 
-💻 Desenvolvedora Front-End <br>
-📓 Estudando Javascript e Java <br>
-📖 Autodidata 
+💻 Eu sou desenvolvedora Front-End <br>
+📓 Estou estudando Javascript e Java <br>
+📖 Adoro aprender coisas novas e me desafiar  
 
 <div>
   <a href="https://github.com/vivi-barba">
