@@ -1,4 +1,4 @@
-<h1> Victória Barbosa 👩🏻 </h1>
+<h1> Olá, eu sou a Victória Barbosa 👩🏻 </h1>
 
 💻 Desenvolvedora Front-End <br>
 📓 Estudando Javascript e Java <br>
