@@ -2,7 +2,7 @@
 
 💻 Eu sou desenvolvedora Front-End <br>
 📓 Estou estudando Javascript e Java <br>
-📖 Adoro aprender coisas novas e me desafiar  
+📖 Sou um autodidata  
 
 <div>
   <a href="https://github.com/vivi-barba">
