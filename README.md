@@ -1,7 +1,7 @@
 <h1> Olá, eu sou a Victória Barbosa 👩🏻 </h1>
 
 💻 Eu sou desenvolvedora Front-End <br>
-📓 Estou estudando Javascript e Java <br>
+📓 Estou estudando Javascript, PHP e Java <br>
 📖 Sou uma autodidata  
 
 <div>
