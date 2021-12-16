@@ -1,6 +1,6 @@
 <h1> Olá, eu sou a Victória Barbosa 👩🏻 </h1>
 
-💻 Eu sou desenvolvedora Front-Endf  <br>
+💻 Eu sou desenvolvedora Front-End  <br>
 👩‍💻 Trainee de Front-End na MarketUP <br>
 📓 Apaixonada por tecologia e inovação <br>
 📖 Entusiasta em aprender coisas novas e se reinventar   
