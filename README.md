@@ -2,7 +2,6 @@
 
 💻 Desenvolvedora Front-End  <br>
 👩‍💻 Trainee de Front-End na MarketUP <br>
-📓 Apaixonada por tecologia e inovação <br>
 📖 Entusiasta em aprender coisas novas e se reinventar   
 
 <div>
