@@ -1,6 +1,6 @@
 <h1> Olá, eu sou a Victória Barbosa 👩🏻 </h1>
 
-💻 Desenvolvedora Front-End  <br>
+💻 Desenvolvedora Front-End Junior<br>
 👩‍💻 Estudando Angular <br>
 📖 Entusiasta em aprender coisas novas e se reinventar   
 
@@ -12,8 +12,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
-  <img align="center" alt="angular" height="30" width="40" src="https://icons8.com/icons/set/angular.png">
+  <img align="center" alt="CSS" height="30" width="40" src="">
+  
  
 </div>
  <hr>
