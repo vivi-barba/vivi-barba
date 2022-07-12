@@ -21,7 +21,7 @@
 <div> 
  
   <a href = "mailto:vitoriabbarbosa31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victoria-barbosa3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victoriabar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
   <h6> “A ostra, para fazer uma pérola, precisa ter dentro de si um grão de areia que a faça sofrer. Sofrendo, a ostra diz para se mesma: preciso envolver essa areia pontuada que me machuca com uma esfera lisa que lhe tire pontas outras felizes não fazem pérolas. Pessoas felizes não sentem a necessidade de criar. O ato criador seja na ciência ou na arte, surge sempre de uma dor. Não é preciso que seja uma dor doída. Por vezes a dor aparece como aquela coisa que tem o nome de curiosidade. Este livro está cheio de areias pontudas que me machucaram. Para me livrar da dor, escrevi” - Rubem Alves
