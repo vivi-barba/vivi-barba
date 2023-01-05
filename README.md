@@ -1,7 +1,7 @@
 <h1> Olá, seja bem-vindo(a)👩🏻 </h1>
 
 💻 Desenvolvedora Front-End Junior<br>
-👩‍💻 Estudando Angular <br>
+👩‍💻 Estudando Javascrip e Angular <br>
 📖 Entusiasta em aprender coisas novas e se reinventar   
 <br/>
 <div>
