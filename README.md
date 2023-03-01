@@ -1,8 +1,8 @@
 <h1> Olá, seja bem-vindo(a)👩🏻 </h1>
 
 💻 Desenvolvedora Front-End Junior<br>
-👩‍💻 Estudando Javascrip e Angular <br>
-📖 Entusiasta em aprender coisas novas e se reinventar   
+👩‍💻 Cursando Analise e Desenvolvimento de Sistemas <br>
+📖 Entusiasta do conhecimento   
 <br/>
 <div>
   <a href="https://github.com/vivi-barba">
