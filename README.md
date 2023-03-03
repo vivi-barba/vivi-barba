@@ -1,4 +1,4 @@
-<h1> Salve galera, seja bem-vind0🏻 </h1>
+<h1> Salve galera, seja bem-vindo 🏻 </h1>
 
 💻 Desenvolvedora Front-End Junior<br>
 👩‍💻 Cursando Analise e Desenvolvimento de Sistemas <br>
