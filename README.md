@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <h1 align="center">✩&emsp;Vickie B&emsp;✩</h1>
+    <h1 align="center"><\&emsp;Vickie B&emsp;></h1>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Oooie;Bem-vindo(a)!;Feel+Free+:)+:)!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
