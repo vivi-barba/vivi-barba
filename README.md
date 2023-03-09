@@ -14,7 +14,7 @@
   <a href="https://github.com/vivi-barba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-barba&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png">
   <img align="center" alt="Angular" height="35" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
