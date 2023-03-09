@@ -1,10 +1,16 @@
-<h1> Salve galera, seja bem-vindo 🏻 </h1>
 
-💻 Desenvolvedora Front-End Junior<br>
-👩‍💻 Cursando Analise e Desenvolvimento de Sistemas <br>
-📖 Entusiasta do conhecimento   
-<br/>
-<div>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+
+<p align="center">
+    <h1 align="center">✩&emsp;Vickie B&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oooie;Bem-vindo(a)!;Feel+Free+:)+:)!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+
+<br>
+<div align="center">
   <a href="https://github.com/vivi-barba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-barba&layout=compact&langs_count=7&theme=dark"/>
 </div>
