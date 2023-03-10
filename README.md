@@ -30,6 +30,8 @@
  <hr>
 <br>
 <div> 
+    <h6>Se você gostou do que viu, <br>
+    não deixe de entrar em contato comigo 👇 </h6>
  
   <a href = "mailto:vitoriabbarbosa31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victoriabar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
