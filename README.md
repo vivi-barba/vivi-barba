@@ -12,14 +12,16 @@
   <a href="https://github.com/vivi-barba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-barba&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png">
-  <img align="center" alt="Angular" height="35" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
+  <img align="center" alt="TS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="center" alt="Angular" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"> 
+  <img align="center" alt="bootstrap" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"> 
 </div>
+   
  <hr>
 <br>
 <div> 
