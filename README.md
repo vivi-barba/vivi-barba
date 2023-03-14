@@ -21,9 +21,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"> 
 </div>
-   
+   <img src="https://img.wattpad.com/1b34813a4fa9a779a43789f31a35b9ea27d9eb52/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f53614e356f576f704677624547513d3d2d3636313231373733382e313537373664366262663764346334363937363031393935393935332e676966"  width="90%
+   height="150px"
+></img>
  <hr>
 <br>
+
 <div> 
     <h6>Se você gostou do que viu, <br>
     não deixe de entrar em contato comigo 👇 </h6>
