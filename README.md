@@ -9,10 +9,9 @@
 </p>
 <br>
 <div align="center">
-  <a href="https://github.com/vivi-barba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-barba&layout=compact&langs_count=7&theme=dracula"/>
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi-barba&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
+ 
 <div align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
