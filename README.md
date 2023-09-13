@@ -2,10 +2,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
-    <h1 align="center"><\&emsp;Vickie B&emsp;></h1>
+    <h1 align="center"><\&emsp;Victória B&emsp;></h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oooie;Bem-vindo(a)!;Feel+Free+:)+:)!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oooie;Bem-vindo(a)!;Fique+à+Vontade+:)+:)!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 <div align="center">
@@ -21,7 +21,7 @@
   <img align="center" alt="bootstrap" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"> 
 </div>
 
-<img src="https://img.wattpad.com/1b34813a4fa9a779a43789f31a35b9ea27d9eb52/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f53614e356f576f704677624547513d3d2d3636313231373733382e313537373664366262663764346334363937363031393935393935332e676966"  width="90%" >
+<img src="https://img.wattpad.com/1b34813a4fa9a779a43789f31a35b9ea27d9eb52/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f53614e356f576f704677624547513d3d2d3636313231373733382e313537373664366262663764346334363937363031393935393935332e676966" width="90%" >
  </img>
  <hr>
 <br>
